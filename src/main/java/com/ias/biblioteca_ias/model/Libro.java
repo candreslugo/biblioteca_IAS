@@ -2,6 +2,8 @@ package com.ias.biblioteca_ias.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
+
+import java.io.Serializable;
 import java.util.Date;
 
 @Data
