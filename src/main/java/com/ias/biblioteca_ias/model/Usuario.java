@@ -20,4 +20,5 @@ public class Usuario  {
     private String cedula;
     private String nombre;
     private Date fechaNacimiento;
+
 }

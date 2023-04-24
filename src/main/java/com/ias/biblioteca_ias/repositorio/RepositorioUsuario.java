@@ -12,6 +12,7 @@ import java.util.Optional;
 @Repository
 public interface RepositorioUsuario extends CrudRepository<Usuario, Long> {
 
+    void delete(Long id);
 
 
 

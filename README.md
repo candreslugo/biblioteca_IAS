@@ -1,1 +1,3 @@
 # biblioteca_IAS
+### Elaboracion entidades
+Se elaboro el paquete **modelo** con dos clases de entidades **Libro** y **Usuario** con sus respectivos atributos, luego cree el paquete **repositorio** y las interfaces de los repositorios de la entidad Libro y la entidad Usuario donde extendi los metodos del la clase **jparepository**, se creo el paquete de servicios para instanciar los metodos y la logica de los repositorios de **libro y usuario** posteriormente cree el paquete controlador para optener y exponer los metodos buscar,actualizar, crear y eliminar de las **clases** **Usuario** y **libro** 
